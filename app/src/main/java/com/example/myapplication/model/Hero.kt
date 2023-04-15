@@ -7,5 +7,4 @@ data class Hero(
     @StringRes val name: Int,
     @StringRes val description: Int,
     @DrawableRes val image: Int
-
 )
